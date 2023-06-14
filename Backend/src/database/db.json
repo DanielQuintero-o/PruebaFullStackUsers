@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Edna Moda",
+      "document": 123456,
+      "email": "ednas.moda@fashion.com",
+      "image": "https://i.pinimg.com/550x/cd/0c/b4/cd0cb44b03a5d3cc5ba477867b52bf36.jpg",
+      "address": "Kr 77h #85-65 Pereira",
+      "telephone": 7146598
+    },
+    {
+      "id": "2",
+      "name": "Frank Luck",
+      "document": 123456789,
+      "email": "frank.luck@fashion.com",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Punisher_%28Frank_Castle%29.jpg",
+      "address": "Kr 100 #09-65 Bogota",
+      "telephone": 8176524
+    },
+    {
+      "id": "3",
+      "name": "Math Murdock",
+      "document": 654321,
+      "email": "math.murdock@fashion.com",
+      "image": "https://media.revistagq.com/photos/6408747809c3b01b1e0e2301/master/pass/daredevil-born-again.jpeg",
+      "address": "Kr 125b #14-22 Bogota",
+      "telephone": 7799396
+    },
+    {
+      "id": "4",
+      "name": "Dead Pool",
+      "document": 321654789,
+      "email": "dead.pool@fashion.com",
+      "image": "https://media.gq.com.mx/photos/5fd51c587938a266e30f81d1/1:1/w_1688,h_1688,c_limit/Deadpool.jpg",
+      "address": "Cll 12 #14-22 Bogota",
+      "telephone": 7561296
+    },
+    {
+      "id": "5",
+      "name": "Otto Octavius",
+      "document": 9632588741,
+      "email": "otto.octavius@fashion.com",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Otto_Octavius_in_Spider-Man_2.jpg",
+      "address": "Cll 124 # 22-22 Bogota",
+      "telephone": 6151296
+    },
+    {
+      "id": "6",
+      "name": "Peter Parker",
+      "document": 741963258,
+      "email": "peter.parker@fashion.com",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/Tom_Holland_as_Spider-Man.jpg",
+      "address": "Cll 68 #74-1 Bogota",
+      "telephone": 7863333
+    },
+    {
+      "id": "7",
+      "name": "Jessica Jones",
+      "document": 258741369,
+      "email": "jessica.jones@fashion.com",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2QyNmZkNTYtZWQyZi00NDhhLWEzMDItYmIzY2U4ZWVmOWNhXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+      "address": "Cll 26 #11-03 Bogota",
+      "telephone": 7456532
+    },
+    {
+      "id": "8",
+      "name": "Tonny Stark",
+      "document": 654852147,
+      "email": "tonny.stark@fashion.com",
+      "image": "https://areajugones.sport.es/wp-content/uploads/2021/04/94344-1080x609.jpg",
+      "address": "Av 26 #12-63 Bogota",
+      "telephone": 8416523
+    },
+    {
+      "id": "9",
+      "name": "Star Lord",
+      "document": 369874521,
+      "email": "Av 19 #16-01 Bogota",
+      "image": "https://www.geekmi.news/__export/1651513765734/sites/debate/img/2022/05/02/nebula-starlord.jpg_423682103.jpg",
+      "address": "star.lord@fashion.com",
+      "telephone": 7854123
+    },
+    {
+      "id": "10",
+      "name": "Brus Barner",
+      "document": 365741258,
+      "email": "brus.barner@fashion.com",
+      "image": "https://www.cinemascomics.com/wp-content/uploads/2020/02/she-hulk-mark-ruffalo.jpg",
+      "address": "Cll 24 #41-22 Bogota",
+      "telephone": 8145632
+    }
+  ]
+}

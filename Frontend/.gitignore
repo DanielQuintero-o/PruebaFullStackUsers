@@ -1,0 +1,10 @@
+# Dependencias de Node.js
+/node_modules
+
+# Carpeta de salida de construcción
+/dist
+
+# Archivos generados por el entorno de desarrollo
+/tmp
+/src/environments/environment.ts
+/src/environments/environment.prod.ts

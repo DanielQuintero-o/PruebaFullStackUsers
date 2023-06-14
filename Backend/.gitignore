@@ -1,0 +1,11 @@
+# Dependencias de Node.js
+/node_modules
+
+# Archivos generados por el entorno de desarrollo
+/dist
+/tmp
+
+# Otras carpetas y archivos generados
+/build
+/logs
+/*.log
